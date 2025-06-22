@@ -10,11 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -35,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LisaMandarin/frontend-mentor-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://lisamandarin.github.io/frontend-mentor-blog-preview-card/)
+- Solution URL: (https://github.com/LisaMandarin/frontend-mentor-blog-preview-card)
+- Live Site URL: (https://lisamandarin.github.io/frontend-mentor-blog-preview-card/)
 
 ## My process
 
